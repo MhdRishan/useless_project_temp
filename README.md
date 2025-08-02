@@ -5,30 +5,30 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [WhyNot]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [aami,shiyas] - [RIT Kottayam]
+- Member 2: [Ameena rana] - [RIT Kottayam]
+- Member 3: [shiyas] - [RIT Kottayam]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Its a stress relief website ,every time we feel stressed or bored just hit or punch on thr proffessor face and enjoy the funny sarcastic quotes.that makes you feel more annoyed]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[whenever you are in a bad mood by using this website make your mood more worst]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[punching your professor is a childhood dream of everyone...by using this you can fulfil your dream ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML CSS JS]
+- [Tailwind Css, vanila javascript]
+- [Tailwind Css]
+- [v0.dev,Repl]
 
 For Hardware:
 - [List main components]
@@ -47,8 +47,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-02 at 07 34 08_1a8a974b]
+*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -81,16 +81,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://v0.dev/chat/funny-cartoon-professor-dho4iZ3SWGq]
+* If you punch on profferssors face everytime,you feel happy and satisfied*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ameena]: [ideastorming]
+- [shiyas]: [implementing the idea]
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
